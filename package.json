@@ -1,0 +1,7 @@
+{
+  "name": "ratedly-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ratings and review platform using Node.js, a built-in HTTP server, and SQLite.",
+  "scripts": { "start": "node server.js" }
+}
